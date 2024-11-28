@@ -4,18 +4,18 @@
 
 <h2>🌟 Features</h2>
 <ul>
-    <li>🔹 Add new students with unique IDs.</li>
-    <li>🔹 Add instructors with department information.</li>
-    <li>🔹 Create courses and assign instructors to them.</li>
-    <li>🔹 Enroll students in courses.</li>
-    <li>🔹 List students enrolled in a specific course.</li>
+    <li> Add new students with unique IDs.</li>
+    <li> Add instructors with department information.</li>
+    <li> Create courses and assign instructors to them.</li>
+    <li> Enroll students in courses.</li>
+    <li> List students enrolled in a specific course.</li>
 </ul>
 
 <h2>💻 Technical Details</h2>
 <ul>
-    <li>🔹 Developed using <b>C#</b>.</li>
-    <li>🔹 Utilizes object-oriented programming principles including inheritance, interfaces, and abstraction.</li>
-    <li>🔹 Data is stored in in-memory lists for simplicity.</li>
+    <li> Developed using <b>C#</b>.</li>
+    <li> Utilizes object-oriented programming principles including inheritance, interfaces, and abstraction.</li>
+    <li> Data is stored in in-memory lists for simplicity.</li>
 </ul>
 
 <h2>🛠️ How to Use</h2>
@@ -32,18 +32,18 @@
 
 <h2>🌟 Özellikler</h2>
 <ul>
-    <li>🔹 Benzersiz ID'lerle yeni öğrenciler ekleme.</li>
-    <li>🔹 Bölüm bilgisiyle eğitmenler ekleme.</li>
-    <li>🔹 Dersler oluşturup eğitmenleri bu derslere atama.</li>
-    <li>🔹 Öğrencileri derslere kaydetme.</li>
-    <li>🔹 Belirli bir derse kaydolmuş öğrencileri listeleme.</li>
+    <li> Benzersiz ID'lerle yeni öğrenciler ekleme.</li>
+    <li> Bölüm bilgisiyle eğitmenler ekleme.</li>
+    <li> Dersler oluşturup eğitmenleri bu derslere atama.</li>
+    <li> Öğrencileri derslere kaydetme.</li>
+    <li> Belirli bir derse kaydolmuş öğrencileri listeleme.</li>
 </ul>
 
 <h2>💻 Teknik Detaylar</h2>
 <ul>
-    <li>🔹 <b>C#</b> kullanılarak geliştirildi.</li>
-    <li>🔹 Kalıtım, arabirimler ve soyutlama gibi nesne yönelimli programlama prensiplerini kullanır.</li>
-    <li>🔹 Veriler basitlik amacıyla bellek içinde listelerde saklanır.</li>
+    <li> <b>C#</b> kullanılarak geliştirildi.</li>
+    <li> Kalıtım, arabirimler ve soyutlama gibi nesne yönelimli programlama prensiplerini kullanır.</li>
+    <li> Veriler basitlik amacıyla bellek içinde listelerde saklanır.</li>
 </ul>
 
 <h2>🛠️ Nasıl Kullanılır</h2>
