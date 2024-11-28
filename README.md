@@ -26,6 +26,8 @@
     <li>Exit the application when finished.</li>
 </ol>
 
+<h2>👨‍💻 Author</h2> <p> This project was created by <strong>Umut Kerim ACAR (ukerma)</strong>. </p>
+
 <h1>📖 Açıklama (Türkçe)</h1>
 
 <p>StudentLectureManagementSystem, öğrencileri, eğitmenleri ve dersleri verimli bir şekilde yönetmek için tasarlanmış bir konsol tabanlı uygulamadır. Kullanıcıların öğrenci ve eğitmen eklemesine, ders oluşturarak öğrencilere atamasına ve belirli bir ders için kaydolmuş öğrencileri listelemesine olanak tanır.</p>
@@ -53,3 +55,5 @@
     <li>Dersleri öğrencilere atayın ve kayıt detaylarını görüntüleyin.</li>
     <li>İşlem bitince uygulamadan çıkın.</li>
 </ol>
+
+<h2>👨‍💻 Yazar</h2> <p> Bu proje, <strong>Umut Kerim ACAR (ukerma)</strong> tarafından <strong> yapılmıştır. </p>
